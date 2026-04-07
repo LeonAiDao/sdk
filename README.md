@@ -1,5 +1,7 @@
 # 🚀 Leon AI
 
+Official CA : 6RAnKAxuuiNLfJUqsyUGbQBdnJb3vpzu2dwCNebxpump
+
 **Leon AI** is a next-generation intelligent system powering automation, delivering insights, and enabling smarter decisions in an AI-driven world.
 
 ---
